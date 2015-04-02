@@ -65,8 +65,8 @@ a {
   color: #fff;
   text-align: center;
   background-color: #8e0c25;
-  background-image: linear-gradient(120deg, #155799, #159957);
-  background-image: url('https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/11008389_867803793261996_9014503364149727627_n.png?oh=42e4226a8254c025be6065b6d4f72ef0&oe=55ADEDFB&__gda__=1436908433_421bea344dfe949d910f5f69ca10cab8');
+  /*background-image: linear-gradient(120deg, #155799, #159957);*/
+  background-image: url('https://devdala.files.wordpress.com/2015/04/paylasio_fb_cover_with_cay_bardak.png');
   /*background-repeat: no-repeat;*/
   background-size: 100%;
 }
