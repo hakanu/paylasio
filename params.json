@@ -1,1 +1,35 @@
-{"name":"Paylasio","tagline":"Paylas.io development blog (http://paylas.io)","body":"# Hakkında\r\n\r\n## Nedir?\r\n\r\nPaylaş.io bir link paylaşım ve tartışma platformudur.\r\n\r\nFormatı gayet basit olup link veya makale paylaşmaya ve ardından bunun üzerine yorum yapmaya dayalıdır.\r\nPaylas.io ile sesini daha uzağa duyurabilir, gündemi tartışabilir, duyuru yapabilir, bulduğun ilginç linkleri insanlara gösterebilirsin.\r\n\r\n## Neden?\r\n\r\n* Günümüzdeki tartışma platformlarında sağlıklı bir diyalog ortamının olmaması\r\n* Benzer platformlardaki oylama sisteminin okuyucu deneyimine tam yansıyamaması\r\n* Bütün ilgi çekici linklerin tek bir yerde toplanması\r\n* Gündemi yakalamanın en hızlı yolu\r\n* Kısa içerikler sayesinde dikkat aralığı düşük insanların bile rahatça okuyabilmesi\r\n* Artırılmış okuma deneyimi\r\n* Postlarla ve yazarlarla gerçek zamanlı etkileşim\r\n* İç içe yorum yapabilme yeteneği ile istenilen kişiye doğrudan cevap verebilme imkanı\r\n* Temiz ve sade arayüz\r\n* Karma sistemi ile kötü postların ve yorumların cezalandırılması, iyilerin ödüllendirilmesi\r\n* Neyin gündem olup neyin olmayacağına kullanıcının karar vermesi\r\n* 10 saniyelik hızlı kayıt işlemi\r\n* Geliştirilmiş RSS (feed) ve bildirim sistemi\r\n* Markdown kullanarak zengin icerikli makaleler yazabilme\r\n* Konulan linklerin varsa onizlemelerinin sağlanması\r\n* Link tekrarı önleyici sistemin olması sayesinde aynı içeriğin birden fazla postta olmasının engellenmesi\r\n* Kullanıcı kuralları çerçevesinde olmak üzere her konuda paylaşım yapma ve tartışma imkanı\r\n* Kategori sistemi sayesinde paylaşım dikeylerinin belirgin şekilde ayrılması. Böylece sadece ilgilenilen konuyla ilgili içerik görülmesi ve o konuda tartışılması.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+    "name": "Paylasio",
+    "tagline": "Paylas.io development blog (http://paylas.io)",
+    "body": "# Hakkında\r\n
+    \r\n
+    ## Nedir?\r\n
+    \r\n
+    [Paylaş.io](http://paylas.io) bir link paylaşım ve tartışma platformudur.\r\n
+    \r\n
+    Formatı gayet basit olup link veya makale paylaşmaya ve ardından bunun üzerine yorum yapmaya dayalıdır.\r\n
+    Paylas.io ile sesini daha uzağa duyurabilir, gündemi tartışabilir, duyuru yapabilir, bulduğun ilginç linkleri insanlara gösterebilirsin.\r\n
+    \r\n
+    ## Neden?\r\n
+    \r\n
+    * Günümüzdeki tartışma platformlarında sağlıklı bir diyalog ortamının olmaması\r\n
+    * Benzer platformlardaki oylama sisteminin okuyucu deneyimine tam yansıyamaması\r\n
+    * Bütün ilgi çekici linklerin tek bir yerde toplanması\r\n
+    * Gündemi yakalamanın en hızlı yolu\r\n
+    * Kısa içerikler sayesinde dikkat aralığı düşük insanların bile rahatça okuyabilmesi\r\n
+    * Artırılmış okuma deneyimi\r\n
+    * Postlarla ve yazarlarla gerçek zamanlı etkileşim\r\n
+    * İç içe yorum yapabilme yeteneği ile istenilen kişiye doğrudan cevap verebilme imkanı\r\n
+    * Temiz ve sade arayüz\r\n
+    * Karma sistemi ile kötü postların ve yorumların cezalandırılması, iyilerin ödüllendirilmesi\r\n
+    * Neyin gündem olup neyin olmayacağına kullanıcının karar vermesi\r\n
+    * 10 saniyelik hızlı kayıt işlemi\r\n
+    * Geliştirilmiş RSS (feed) ve bildirim sistemi\r\n
+    * Markdown kullanarak zengin icerikli makaleler yazabilme\r\n
+    * Konulan linklerin varsa onizlemelerinin sağlanması\r\n
+    * Link tekrarı önleyici sistemin olması sayesinde aynı içeriğin birden fazla postta olmasının engellenmesi\r\n
+    * Kullanıcı kuralları çerçevesinde olmak üzere her konuda paylaşım yapma ve tartışma imkanı\r\n
+    * Kategori sistemi sayesinde paylaşım dikeylerinin belirgin şekilde ayrılması. Böylece sadece ilgilenilen konuyla ilgili içerik görülmesi ve o konuda tartışılması.",
+    "google": "",
+    "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

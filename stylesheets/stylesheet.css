@@ -7,7 +7,15 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71;
+  color: white;
+
+  background: -webkit-linear-gradient(2700deg, #a73737 10%, #7a2828 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(2700deg, #a73737 10%, #7a2828 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(2700deg, #a73737 10%, #7a2828 90%); /* IE10 */
+  background:      -o-linear-gradient(2700deg, #a73737 10%, #7a2828 90%); /* Opera 11.10+ */
+  background:         linear-gradient(2700deg, #a73737 10%, #7a2828 90%); /* W3C */
+}
 
 a {
   color: #1e6bb8;
@@ -56,8 +64,11 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-color: #8e0c25;
+  background-image: linear-gradient(120deg, #155799, #159957);
+  /*background-image: url('https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/11008389_867803793261996_9014503364149727627_n.png?oh=42e4226a8254c025be6065b6d4f72ef0&oe=55ADEDFB&__gda__=1436908433_421bea344dfe949d910f5f69ca10cab8');*/
+  /*background-repeat: no-repeat;*/
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -112,7 +123,10 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  /*color: #159957;*/
+  /*color: #66CD00*/
+  color: green;
+}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -221,6 +235,8 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
+  text-align: center;
+
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
@@ -230,7 +246,9 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #819198;
+  color: white;
+}
 
 @media screen and (min-width: 64em) {
   .site-footer {
